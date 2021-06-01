@@ -8,7 +8,7 @@ function App() {
         {
             date: new Date(2021, 2, 28),
             title: 'Car Insurance',
-            amount: 199.99,
+            amount: 299.99,
         },
         {
             date: new Date(2021, 3, 28),
